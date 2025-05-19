@@ -1,0 +1,7 @@
+# ignore all class files from any directory
+*/*.class
+# ignore all jar files from any directory
+*/*.jar
+# ignore all DSTORE files from any directory
+*/.DS_Store
+.DS_Store
