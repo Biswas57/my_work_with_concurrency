@@ -5,3 +5,5 @@
 # ignore all DSTORE files from any directory
 */.DS_Store
 .DS_Store
+# ignore target directory from rust projects
+target/*
